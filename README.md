@@ -30,10 +30,6 @@ Designed and developed a web app to display the impact ofCovid-19 in every count
 - MySQL
 - Dash by Plotly
 - Python
-- 
-
-
-
 
 <br />
 <br />
