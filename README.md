@@ -20,6 +20,9 @@ Designed and developed a web app to display the impact ofCovid-19 in every count
 
 
 
+- <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Plotly
+
+
 
 
 <br />
