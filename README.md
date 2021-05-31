@@ -20,6 +20,7 @@ Designed and developed a web app to display the impact ofCovid-19 in every count
 <img align="left" alt="Pyhon" width="26px" src="https://user-images.githubusercontent.com/61334264/120240298-38133880-c22e-11eb-9641-33fe0f8c5e7e.png" />
 
 <br />
+<br />
 
 - VSC
 - HTML5
