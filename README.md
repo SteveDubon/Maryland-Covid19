@@ -42,7 +42,7 @@ click to view
 <br />
 <br />
 
-<img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" />  ### Inspired By: https://dash-gallery.plotly.host/dash-opioid-epidemic/ 
+### <img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" /> Inspired By: https://dash-gallery.plotly.host/dash-opioid-epidemic/ 
 
 
 
