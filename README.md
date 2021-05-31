@@ -32,7 +32,6 @@ Designed and developed a web app to display the impact ofCovid-19 in every count
 https://user-images.githubusercontent.com/61334264/120059137-800f4100-c01d-11eb-999a-218403ad09ac.mp4
 
 click to view
-
 <br />
 
 ### <img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" /> Inspired By: https://dash-gallery.plotly.host/dash-opioid-epidemic/ 
