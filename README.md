@@ -7,7 +7,7 @@ Designed and developed a web app to display the impact ofCovid-19 in every count
 
 
 
-### Languages and Tools: <img align="left" alt="Computer" width="26px" src="https://user-images.githubusercontent.com/61334264/120239954-74926480-c22d-11eb-9fa0-db54cb62d802.png" />
+### Languages and Tools: <img align="right" alt="Computer" width="26px" src="https://user-images.githubusercontent.com/61334264/120239954-74926480-c22d-11eb-9fa0-db54cb62d802.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
