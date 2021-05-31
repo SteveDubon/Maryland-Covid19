@@ -22,11 +22,15 @@ Designed and developed a web app to display the impact ofCovid-19 in every count
 
 <br />
 <br />
-- Plotly
-- Plotly
-
-
-
+- VSC
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+- MySQL
+- Dash by Plotly
+- Python
+- 
 
 
 
