@@ -1,4 +1,4 @@
-# Maryland-Covid19
+# Maryland-Covid19 
 ## About: 
 Designed and developed a web app to display the impact ofCovid-19 in every county (Maryland). Used different Pythonpackages and libraries to collect, clean and analyze the data.
 
