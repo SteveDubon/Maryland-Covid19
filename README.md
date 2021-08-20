@@ -35,7 +35,7 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 ## How To Use
 
 #### Libraies
-- <img align="left" alt="Pandas" width="23px" src="https://user-images.githubusercontent.com/61334264/130188413-3a31e183-552b-4330-93a9-8077f04e5057.png" /> Pandas
+- <img align="left" alt="Pandas" width="22px" src="https://user-images.githubusercontent.com/61334264/130188413-3a31e183-552b-4330-93a9-8077f04e5057.png" /> Pandas
 - <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Dash by Plotly
 
 
