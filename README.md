@@ -1,6 +1,6 @@
-# Read Me Template
+# Maryland-Covid19 WebApp
 
-![Project Image](project-image-url)
+![Project Image](https://user-images.githubusercontent.com/61334264/130180292-c0a2a938-cac7-4982-a3c7-7cd9c61ef619.jpg)
 
 > This is a ReadMe template to help save you time and effort.
 
@@ -19,7 +19,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Designed and developed a web app to display and visualize the impact of Covid-19 in every county from the state of Maryland. Used different Python packages and libraries to collect, clean and analyze the data.
 
 #### Technologies
 
