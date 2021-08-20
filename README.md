@@ -23,7 +23,6 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 #### Technologies
 
 - <img align="left" alt="Pyhon" width="26px" src="https://user-images.githubusercontent.com/61334264/120240298-38133880-c22e-11eb-9641-33fe0f8c5e7e.png" /> Python
-- <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Dash by Plotly
 - <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5
 - <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS3
 - <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
@@ -36,9 +35,9 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 ## How To Use
 
 #### Libraies
-- Pandas
-- Plotly
-- Dash
+- <img align="left" alt="Pandas" width="26px" src="https://user-images.githubusercontent.com/61334264/130188413-3a31e183-552b-4330-93a9-8077f04e5057.png" /> Pandas
+- <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Plotly
+- <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Dash
 
 
 [Back To The Top](#maryland-covid19-webapp)
@@ -55,10 +54,6 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 ---
 
 ## License
-
-MIT License
-
-Copyright (c) [2017] [James Q Quick]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -78,16 +73,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#maryland-covid19-webapp)
 
 ---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
 
-[Back To The Top](#read-me-template)
+- <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn - [@SDubon](https://www.linkedin.com/in/sdubon/)
+
+[Back To The Top](#maryland-covid19-webapp)
 
 
 
