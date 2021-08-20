@@ -30,7 +30,7 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 - <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
 
 
-[Back To The Top](#Maryland-Covid19 WebApp)
+[Back To The Top](#maryland-covid19-webapp)
 
 ---
 
