@@ -23,8 +23,12 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Python
+- <img align="left" alt="Pyhon" width="26px" src="https://user-images.githubusercontent.com/61334264/120240298-38133880-c22e-11eb-9641-33fe0f8c5e7e.png" />
+- Dash by Plotly
+- MySQL
+- -VSC- HTML5- CSS3 - JavaScript - SQL - MySQL - Dash by Plotly - Python 
+- 
 
 [Back To The Top](#read-me-template)
 
