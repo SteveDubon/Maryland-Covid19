@@ -1,13 +1,12 @@
 # Maryland-Covid19 WebApp
 
-![Project Image](https://user-images.githubusercontent.com/61334264/130180292-c0a2a938-cac7-4982-a3c7-7cd9c61ef619.jpg)
+![Project Image](https://user-images.githubusercontent.com/61334264/120059137-800f4100-c01d-11eb-999a-218403ad09ac.mp4)
 
-> This is a ReadMe template to help save you time and effort.
+> Click to View Demo.
 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -42,15 +41,16 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 - Dash
 
 
-[Back To The Top](#Maryland-Covid19 WebApp)
+[Back To The Top](#maryland-covid19-webapp)
 
 ---
 
 ## References
-https://user-images.githubusercontent.com/61334264/130184607-aa1dcfba-6cac-4f35-ba3e-906c4d1af524.jpg
+![Project Image](https://user-images.githubusercontent.com/61334264/130184607-aa1dcfba-6cac-4f35-ba3e-906c4d1af524.jpg)
+<br />
 <img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" /> https://dash-gallery.plotly.host/dash-opioid-epidemic/ 
 
-[Back To The Top](#Maryland-Covid19 WebApp)
+[Back To The Top](#maryland-covid19-webapp)
 
 ---
 
