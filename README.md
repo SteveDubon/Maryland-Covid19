@@ -1,6 +1,6 @@
 # Maryland-Covid19 WebApp
 
-![Project Image](https://user-images.githubusercontent.com/61334264/120059137-800f4100-c01d-11eb-999a-218403ad09ac.mp4)
+https://user-images.githubusercontent.com/61334264/120059137-800f4100-c01d-11eb-999a-218403ad09ac.mp4
 
 > Click to View Demo.
 
