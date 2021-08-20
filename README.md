@@ -28,30 +28,29 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 - <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5
 - <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS3
 - <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
-- MySQL
-- VSC
 
-[Back To The Top](#read-me-template)
+
+[Back To The Top](#Maryland-Covid19 WebApp)
 
 ---
 
 ## How To Use
 
-#### Installation
+#### Libraies
+- Pandas
+- Plotly
+- Dash
 
 
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
+[Back To The Top](#Maryland-Covid19 WebApp)
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+https://user-images.githubusercontent.com/61334264/130184607-aa1dcfba-6cac-4f35-ba3e-906c4d1af524.jpg
+<img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" /> https://dash-gallery.plotly.host/dash-opioid-epidemic/ 
+
+[Back To The Top](#Maryland-Covid19 WebApp)
 
 ---
 
