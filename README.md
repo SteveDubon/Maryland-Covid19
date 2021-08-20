@@ -36,8 +36,8 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 
 #### Libraies
 - <img align="left" alt="Pandas" width="26px" src="https://user-images.githubusercontent.com/61334264/130188413-3a31e183-552b-4330-93a9-8077f04e5057.png" /> Pandas
-- <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Plotly
-- <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Dash
+- <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Dash by Plotly
+
 
 
 [Back To The Top](#maryland-covid19-webapp)
@@ -47,7 +47,8 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 ## References
 ![Project Image](https://user-images.githubusercontent.com/61334264/130184607-aa1dcfba-6cac-4f35-ba3e-906c4d1af524.jpg)
 <br />
-<img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" /> https://dash-gallery.plotly.host/dash-opioid-epidemic/ 
+> Click to View Project.
+- <img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" /> https://dash-gallery.plotly.host/dash-opioid-epidemic/ 
 
 [Back To The Top](#maryland-covid19-webapp)
 
@@ -80,7 +81,7 @@ SOFTWARE.
 ## Author Info
 
 
-- <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn - [@SDubon](https://www.linkedin.com/in/sdubon/)
+- <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn - [@SDubon](https://www.linkedin.com/in/sdubon/)
 
 [Back To The Top](#maryland-covid19-webapp)
 
