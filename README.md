@@ -24,10 +24,12 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 #### Technologies
 
 - <img align="left" alt="Pyhon" width="26px" src="https://user-images.githubusercontent.com/61334264/120240298-38133880-c22e-11eb-9641-33fe0f8c5e7e.png" /> Python
-- Dash by Plotly
+- <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Dash by Plotly
+- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5
+- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS3
+- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
 - MySQL
-- -VSC- HTML5- CSS3 - JavaScript - SQL - MySQL - Dash by Plotly - Python 
-- 
+- VSC
 
 [Back To The Top](#read-me-template)
 
