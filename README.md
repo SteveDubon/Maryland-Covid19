@@ -38,7 +38,8 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 - <img align="left" alt="Pandas" width="20px" src="https://user-images.githubusercontent.com/61334264/130188413-3a31e183-552b-4330-93a9-8077f04e5057.png" /> Pandas
 - <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Dash by Plotly
 
-> <img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" />CLick to View Full Script:  [Code](https://github.com/SteveDubon/Maryland-Covid19/blob/master/Maryland-Covid19.py)
+#### Code
+- <img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" />CLick to View Full Script:  [Code](https://github.com/SteveDubon/Maryland-Covid19/blob/master/Maryland-Covid19.py)
 
 
 
